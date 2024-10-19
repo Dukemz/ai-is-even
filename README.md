@@ -1,4 +1,4 @@
-# is-even-ai
+# ai-is-even
 
 Uses the power of artificial intelligence to return true if the given number is even.
 
@@ -7,7 +7,7 @@ This package leverages the [`is-odd-ai`](https://www.npmjs.com/package/is-odd-ai
 ## Installation
 
 ```bash
-npm install is-even-ai
+npm install ai-is-even
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ Replace `your-api-key` with your actual OpenAI API key.
 ### Example
 
 ```javascript
-const isEvenAI = require('is-even-ai');
+const isEvenAI = require('ai-is-even');
 
 async function checkNumber() {
   const number = 4;
@@ -45,7 +45,7 @@ checkNumber();
 
 ### API
 
-`is-even-ai(i)`
+`ai-is-even(i)`
 
 - **`i`**: A number you want to check for evenness.
 - **Returns**: A `Promise` that resolves to `true` if the number is even, or `false` if it's odd.

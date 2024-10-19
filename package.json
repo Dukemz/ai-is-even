@@ -1,6 +1,6 @@
 {
   "name": "ai-is-even",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks the evenness of numbers using the power of ✨AI✨.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dukemz/is-even-ai.git"
+    "url": "git+https://github.com/Dukemz/ai-is-even.git"
   },
   "keywords": [
     "array",
@@ -27,9 +27,9 @@
   "author": "Dukemz (https://github.com/Dukemz)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Dukemz/is-even-ai/issues"
+    "url": "https://github.com/Dukemz/ai-is-even/issues"
   },
-  "homepage": "https://github.com/Dukemz/is-even-ai#readme",
+  "homepage": "https://github.com/Dukemz/ai-is-even#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "is-odd-ai": "^1.0.2"

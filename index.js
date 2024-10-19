@@ -1,5 +1,5 @@
 /*!
- * is-even-ai <https://github.com/Dukemz/is-even-ai>
+ * ai-is-even <https://github.com/Dukemz/ai-is-even>
  *
  * Released under the Apache 2.0 License.
  */
@@ -17,7 +17,7 @@ const isOdd = require('is-odd-ai');
  * @returns {Promise<boolean>} - A Promise that resolves to `true` if the number is even, or `false` if the number is odd.
  *
  * @example
- * const isEven = require('is-even-ai');
+ * const isEven = require('ai-is-even');
  *
  * async function checkNumber() {
  *   const number = 4;
