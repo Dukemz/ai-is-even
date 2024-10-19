@@ -1,0 +1,40 @@
+{
+  "name": "is-even-ai",
+  "version": "1.0.0",
+  "description": "The most useful package ever.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dukemz/is-even-ai.git"
+  },
+  "keywords": [
+    "array",
+    "count",
+    "even",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "odd",
+    "string",
+    "ai",
+    "gpt"
+  ],
+  "author": "Dukemz (https://github.com/Dukemz)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dukemz/is-even-ai/issues"
+  },
+  "homepage": "https://github.com/Dukemz/is-even-ai#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "is-odd-ai": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
