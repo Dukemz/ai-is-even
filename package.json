@@ -1,5 +1,5 @@
 {
-  "name": "is-even-ai",
+  "name": "ai-is-even",
   "version": "1.0.0",
   "description": "Checks the evenness of numbers using the power of ✨AI✨.",
   "main": "index.js",
