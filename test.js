@@ -1,3 +1,9 @@
+/*
+  disclaimer: I didn't test this at all
+  unsurprisingly this was taken from https://github.com/rhettlunn/is-odd-ai/blob/main/test/isOddTest.js
+  if this fails don't say I didn't warn you
+*/
+
 const assert = require('assert');
 const isEven = require('../index');
 

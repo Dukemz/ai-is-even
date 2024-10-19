@@ -2,7 +2,7 @@
 
 Uses the power of artificial intelligence to return true if the given number is even.
 
-This package leverages the `is-odd-ai` package for its operation, which in turn utilises OpenAI's API, so you will need to provide an API key.
+This package leverages the [`is-odd-ai`](https://www.npmjs.com/package/is-odd-ai) package for its operation, which in turn utilises OpenAI's API, so you will need to provide an API key.
 
 ## Installation
 
