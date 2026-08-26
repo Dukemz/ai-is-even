@@ -53,3 +53,7 @@ checkNumber();
 ## License
 
 This project is licensed under the Apache 2.0 License.
+
+## Notice
+
+In case you somehow couldn't tell, this project is a joke. I hate LLMs. But apparently the existence of this repository has made some people (or possibly webcrawlers) think I'd be into helping develop projects involving them. So to clarify, I'm not. Please don't contact me about things like that.
